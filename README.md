@@ -4,7 +4,6 @@
 
 <br <img align="left" alt="Ahmadou Ngary faye" height="25" src="https://i.ibb.co/JjJ0w2v/brand.png" /> <img align="left" alt="Ahmadou Ngary faye" height="25" src="https://i.ibb.co/1KGJ11M/brand-youtube.png" />  
 
-<br />
 
 ##### Suivez moi sur les réseaux sociaux 
 
