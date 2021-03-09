@@ -2,7 +2,7 @@
 
 <br />
 
-<br <img align="left" alt="Ahmadou Ngary faye" height="20" src="https://i.ibb.co/JjJ0w2v/brand.png" /> | <img align="left" alt="Ahmadou Ngary faye" height="20" src="https://i.ibb.co/xs1qQKn/brand-youtube.png" />  
+<br <img align="left" alt="Ahmadou Ngary faye" height="25" src="https://i.ibb.co/JjJ0w2v/brand.png" /> | <img align="left" alt="Ahmadou Ngary faye" height="25" src="https://i.ibb.co/xs1qQKn/brand-youtube.png" />  
 
 <br />
 
