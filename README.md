@@ -77,8 +77,8 @@
 
 <br />
 
-[website: http://ngxcv.com [twitter]: https://twitter.com/ng__xcv
-[youtube]: https://youtube.com/ngxcv
-[instagram]: https://www.instagram.com/ng_xcv/
-[linkedin]: https://www.linkedin.com/in/ngxcv/
+[website: http://ngxcv.com [twitter]: https://twitter.com/ng__xcv  
+[youtube]: https://youtube.com/ngxcv   
+[instagram]: https://www.instagram.com/ng_xcv/   
+[linkedin]: https://www.linkedin.com/in/ngxcv/   
 [kalilinuxplaylist]: https://www.youtube.com/watch?v=CSLBqGCUYyo&list=PLKW9bVGJghugT-c2b3gCqVoTivel5R_VK
