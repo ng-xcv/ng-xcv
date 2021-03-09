@@ -1,5 +1,9 @@
 ## Ahmadou Ngary Faye - [ng_xcv][Website]
 
+
+![ng_xcv](https://i.ibb.co/JjJ0w2v/brand.png)
+
+
 ##### Suivez moi sur les réseaux sociaux 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
