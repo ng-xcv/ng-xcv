@@ -1,8 +1,7 @@
 ## Ahmadou Ngary Faye - [ng_xcv][Website]
 
 
-<img align="left" alt="ahmadou Ngary faye" height="40" src="https://i.ibb.co/JjJ0w2v/brand.png" />
-
+<img align="left" alt="ahmadou Ngary faye" height="20" src="https://i.ibb.co/JjJ0w2v/brand.png" />
 
 
 ##### Suivez moi sur les réseaux sociaux 
