@@ -2,7 +2,7 @@
 
 <br />
 
-<img align="left" alt="Ahmadou Ngary faye" height="20" src="https://i.ibb.co/JjJ0w2v/brand.png" />
+<br <img align="left" alt="Ahmadou Ngary faye" height="20" src="https://i.ibb.co/JjJ0w2v/brand.png" /> | <img align="left" alt="Ahmadou Ngary faye" height="20" src="https://i.ibb.co/xs1qQKn/brand-youtube.png" />  
 
 <br />
 
@@ -14,7 +14,7 @@
 [<img align="left" alt="ngxcv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ngxcv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ng__xcv)
+
 
 ## Je suis un Développeur Backend !!
 
