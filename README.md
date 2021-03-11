@@ -1,9 +1,7 @@
 ### Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="http://ngxcv.com"><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png" /></a>
-
-<br/>
-<br/>
+<a target="_blank" href="mailto:ngaryfaye95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 ##### Suivez moi sur les réseaux sociaux :
 
@@ -16,6 +14,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ng-xcv.ng-xcv)
 <br />
+<br />
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
+
+Hello, mon nom est [Ahmadou Ngary Faye][instagram], je suis un passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+<br />
 
 ## Je suis un Développeur Backend !!
 
@@ -25,9 +32,13 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+<br/>
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+<br/>
 
 ### Languages and Tools:
 
@@ -39,21 +50,22 @@
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="React"  width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React"  width="30px" src="icons/React.png" />
 
-<img align="left" alt="jquery" width="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/jquery/jquery.png" />
+<img align="left" alt="Php" width="45px"  src="icons/php.png" />
 
-<img align="left" alt="flask" width="30px"  src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/flask/flask.png" />
+<img align="left" alt="flask" width="25px"  src="icons/flask.svg" />
 
-<img align="left" alt="Php" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="MySQL" width="30px"   src="icons/mysql.png" />
 
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Oracle" width="40px" src="icons/oracle.png" />
 
-<img align="left" alt="MySQL" width="30px"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<br />
+<br />
 
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="30px" src="icons/git.png" />
 
-<img align="left" alt="GitHub" width="30px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="30px"  src="icons/github.png" />
 
 <img align="left" alt="Terminal" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
