@@ -1,11 +1,6 @@
 ### Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
-<br />
-
 <a href="http://ngxcv.com"><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png" /></a>
-
-<a href="https://www.youtube.com/channel/UCp6sujYSyVn1M1eB_-YS6Mg?sub_confirmation=1"><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/1KGJ11M/brand-youtube.png" /></a>
 
 <br/>
 <br/>
