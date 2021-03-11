@@ -1,4 +1,7 @@
-## Ahmadou Ngary Faye - [ng_xcv][website]
+### Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<br />
+<br />
 
 <a href="http://ngxcv.com"><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png" /></a>
 
@@ -7,14 +10,16 @@
 <br/>
 <br/>
 
-##### Suivez moi sur les réseaux sociaux
+##### Suivez moi sur les réseaux sociaux :
 
 [<img align="left" alt="ngxcv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ngxcv | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ngxcv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ngxcv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ngxcv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ngxcv | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
+![](https://visitor-badge.glitch.me/badge?page_id=ng-xcv.ng-xcv)
 <br />
 
 ## Je suis un Développeur Backend !!
@@ -74,6 +79,7 @@
 
 [website]: http://ngxcv.com
 [twitter]: https://twitter.com/ng__xcv
+[discord]: dsc.bio/ngxcv
 [youtube]: https://www.youtube.com/channel/UCp6sujYSyVn1M1eB_-YS6Mg?sub_confirmation=1
 [instagram]: https://instagram.com/ng_xcv
 [linkedin]: https://linkedin.com/in/ngxcv
