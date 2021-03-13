@@ -13,15 +13,17 @@
 [<img align="left" alt="ngxcv | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ng-xcv.ng-xcv)
+
+<div style="height:400px; margin-bottom: 20px">
+    <img style="width:60%; border: 1px solid; margin-top: -40px " align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
+
+  <p align="left" style="width:40%; height:320px">
+    Hello, mon nom est <a href="https://twitter.com/ng__xcv" >Ahmadou Ngary Faye</a>, je suis un developeur passionné et un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. 
+    Dans mon quotidien de développeur je suis toujours à la recherche d’un plus, d’une nouvelle découverte astuce qui me permettrait d’accroitre ma productivité.
+  </p>
+</div>
+
 <br />
-<br />
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
-
-Hello, mon nom est [Ahmadou Ngary Faye][instagram], je suis un passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
 <br />
 
 ## Je suis un Développeur Backend !!
