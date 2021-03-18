@@ -6,7 +6,7 @@
 </p>
 <p align="left">
 
-<a target="_blank"href="mailto:ngaryfaye95@gmail.com"><img src="icons/cv.png" height="28"  style="margin-left:-40px"  /></a> 
+<a target="_blank" href="mailto:ngaryfaye95@gmail.com"><img src="icons/cv.png" height="28"  style="margin-left:-40px"  /></a> 
 <a target="_blank"  href="mailto:ngaryfaye95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 <br />
