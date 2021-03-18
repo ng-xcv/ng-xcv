@@ -7,8 +7,9 @@
 <a target="_blank" title="Voir mon CV" href="resume/cv.pdf"><img src="icons/cv.png" height="28" /></a> 
 <a target="_blank"  href="mailto:ngaryfaye95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
+<p align="right">
 <img style="width:70%; margin-top:-100px; margin-bottom:20px" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
-
+</p>
 <br />
 <p align="center">
 <h4>Suivez moi sur les réseaux sociaux : </h4>
