@@ -3,7 +3,7 @@
 </h3>
 <br />
 <p align="right" style="margin-bottom : 10px;">
-    <img style="width:70%; margin-top:-100px" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
+    <img style="width:70%; margin-top:-100px; margin-bottom:10px" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
 </p>
 <p align="left" style="margin-top:20px;">
 <a href="http://ngxcv.com" title="Visiter mon site web" target="_blank"  ><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png"/></a>
