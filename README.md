@@ -5,9 +5,8 @@
     <img style="width:70%; margin-top:-100px" align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
 </p>
 <p align="left">
-<a href="http://ngxcv.com" target="_blank" style="bordrer:10px solid red" ><img align="left" alt="Ahmadou Ngary faye" height="28"  src="https://i.ibb.co/JjJ0w2v/brand.png"/></a>
-<a target="_blank" href="resume/resume.pdf"><img src="icons/cv.png" height="28" /></a> 
-
+<a href="http://ngxcv.com" title="Visiter mon site web" target="_blank"  ><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png"/></a>
+<a target="_blank" title="Voir mon CV" href="resume/cv.pdf"><img src="icons/cv.png" height="28" /></a> 
 <a target="_blank"  href="mailto:ngaryfaye95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 <br />
@@ -26,8 +25,12 @@
 </p>
 <br />
 <p align="left" style="width:40%; height:320px">
-  Hello, mon nom est <a href="https://twitter.com/ng__xcv" >Ahmadou Ngary Faye</a>, je suis un developeur passionné et un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. 
+  Hello, mon nom est <a href="https://twitter.com/ng__xcv" >Ahmadou Ngary Faye</a>, je suis un developeur passionné. Je suis également un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. 
   Dans mon quotidien de développeur je suis toujours à la recherche d’un plus, d’une nouvelle découverte astuce qui me permettrait d’accroitre ma productivité.
+  Ma motivation première est le fait dans un cadre plus général le numérique est un monde qui me passionne depuis tout petit. 
+  L'innovation et la créativité en développement s'est avéré être une sensation palpitante pour ma part le fait de construire ou de participer à l'élaboration des applications de demain.
+  Ce qui est particulièrement vivifiant c'est que j'aime les défis le fait de venir à bout d'une situation particulière après de longues heures de recherches 😆.
+  Pour en savoir un plus sur mon parcours mon CV est tout en haut 👆🏽👆🏽👆🏽
 </p>
 
 
@@ -35,7 +38,7 @@
 <br />
 
 <p align="center">
-<h2> Je suis un Développeur Backend !! </h2>
+<h2> Un Développeur Backend !! </h2>
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -45,7 +48,7 @@
 </p>
 
 <p align="center">
-### Spotify Playing 🎧
+<h3>Spotify Playing 🎧 </h3>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 </p>
