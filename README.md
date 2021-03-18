@@ -24,7 +24,7 @@
 
 </p>
 <br />
-<p align="left" style="width:40%; height:320px; text-align:center">
+<p align="left" style="width:40%; height:320px; text-align:justify">
   Hello, mon nom est <a href="https://twitter.com/ng__xcv" >Ahmadou Ngary Faye</a>, je suis un developeur passionné. Je suis également un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. <br />
   Dans mon quotidien de développeur je suis toujours à la recherche d’un plus, d’une nouvelle découverte astuce qui me permettrait d’accroitre ma productivité.<br />
   Ma motivation première est le fait dans un cadre plus général le numérique est un monde qui me passionne depuis tout petit. <br />
