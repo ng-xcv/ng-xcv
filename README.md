@@ -8,9 +8,8 @@
 <a href="http://ngxcv.com"  style="bordrer:10px solid red" ><img align="left" alt="Ahmadou Ngary faye" height="28"  src="https://i.ibb.co/JjJ0w2v/brand.png"/></a>
 
 <a target="_blank" href="mailto:ngaryfaye95@gmail.com"><img src="icons/cv.png" height="28" /></a> 
-<p>
+
 <a target="_blank"  href="mailto:ngaryfaye95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-</p>
 
 </p>
 <br />
