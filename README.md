@@ -2,10 +2,10 @@
  Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 </h3>
 <br />
-<p align="left" style="margin-bottom : 10px; margin-top : 40px;">
+<p align="left" style="margin-bottom : 10px;">
     <img style="width:70%; margin-top:-100px" align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
 </p>
-<p align="left">
+<p align="left" style="margin-top : 20px;">
 <a href="http://ngxcv.com" title="Visiter mon site web" target="_blank"  ><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png"/></a>
 <a target="_blank" title="Voir mon CV" href="resume/cv.pdf"><img src="icons/cv.png" height="28" /></a> 
 <a target="_blank"  href="mailto:ngaryfaye95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
