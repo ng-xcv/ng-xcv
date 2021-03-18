@@ -5,8 +5,8 @@
     <img style="width:70%; margin-top:-100px" align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
 </p>
 <p align="left">
-<a href="http://ngxcv.com" style="margin-left:-17px" ><img align="left" alt="Ahmadou Ngary faye" height="28" style="margin-right:-17px" src="https://i.ibb.co/JjJ0w2v/brand.png"/></a>
-<a target="_blank" href="mailto:ngaryfaye95@gmail.com"><img style="margin-left:-17px" src="icons/cvngary.png" height="28" /></a> 
+<a href="http://ngxcv.com" style=" ><img align="left" alt="Ahmadou Ngary faye" height="28"  src="https://i.ibb.co/JjJ0w2v/brand.png"/></a>
+<a target="_blank" href="mailto:ngaryfaye95@gmail.com"><img style="margin-right: 5px"src="icons/cvngary.png" height="28" /></a> 
 <a target="_blank" href="mailto:ngaryfaye95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 <br />
