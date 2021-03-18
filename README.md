@@ -1,7 +1,7 @@
 <h3 align="left">
  Bienvenue <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
-<p align="center" style="margin-bottom:10px; margin-top:20px">
+<p align="center" style="margin-bottom : 10px; margin-top : 20px; border: 1 px solid red">
     <img style="width:70%; margin-top:-100px" align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
 </p>
 <p align="left">
