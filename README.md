@@ -45,10 +45,11 @@
 - 🥅 Objectifs 2021: Mon objectif pour cette année serait de m'autoformer <br />
   en Frontend et Développement Mobile 🙃
 - ⚡ Visitez un peu plus mon profil pour voir les projets réalisés 😋
+<img align="right" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 </p>
 
 <p align="right" style="border: 1px solid red">
-  <img align="right" width="320px" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+  
   <p align="center">
     Made with ❤️ in Bhopal
   </p>
