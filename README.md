@@ -38,7 +38,8 @@
 <br />
 
 <p>
-<img style="border: 1px solid red" align="right" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+<img style="border: 1px solid red;" align="right" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+<p style=" position: relative;">
 <h2> Un Développeur Backend --->> FullStack </h2>
 <p style="width:40%" align="left">
 - 🔭 J'ai eu à travailler avec des Langages Backend : PHP, Python, JAVA et C#
@@ -47,7 +48,7 @@
   en Frontend et Développement Mobile 🙃
 - ⚡ Visitez un peu plus mon profil pour voir les projets réalisés 😋
 </p>
-
+</p>
 </p>
 
 <p align="right" style="">
