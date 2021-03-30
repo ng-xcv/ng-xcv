@@ -47,8 +47,8 @@
 - ⚡ Visitez un peu plus mon profil pour voir les projets réalisés 😋
 </p>
 
-<p align="right">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+<p align="right" style="border: 1px solid red">
+  <img align="right" width="320px" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
   <p align="center">
     Made with ❤️ in Bhopal
   </p>
