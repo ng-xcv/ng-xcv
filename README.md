@@ -37,10 +37,10 @@
 <br />
 <br />
 
-<p align="left">
-<h2 style="width:50%"> Un Développeur Backend >> FullStack </h2>
+<p align="left" style="width:40%">
+<h2 style="width:50%"> Un Développeur Backend --->> FullStack </h2>
 
-- 🔭 J'ai eu à faire pas de Langages : PHP, Python, JAVA et C#
+- 🔭 J'ai eu à travailler avec des Langages Backend : PHP, Python, JAVA et C#
 - 🌱 Pour ce qui en des framework : Laravel, Flask
 - 🥅 Objectifs 2021: Mon objectif pour cette année serait de m'autoformer <br />
   en Frontend et Développement Mobile 🙃
