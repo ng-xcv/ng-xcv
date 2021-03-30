@@ -3,7 +3,7 @@
 </h3>
 <br />
 <p align="right">
-    <img style=" margin-top:-100px; " align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
+    <img style="margin-top:-100px; " align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
 </p>
 <p align="center" style="padding: 40px;">
 <a href="http://ngxcv.com" title="Visiter mon site web" target="_blank"  ><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png"/></a>
@@ -34,24 +34,25 @@
   Pour en savoir un plus sur mon parcours mon CV est tout en haut 👆🏽👆🏽👆🏽
 </p>
 
-
 <br />
 <br />
 
 <p align="center">
-<h2> Un Développeur Backend !! </h2>
+<h2> Un Développeur Backend >> FullStack </h2>
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 J'ai eu à faire pas de Langages : PHP, Python, JAVA et C#
+- 🌱 Pour ce qui en des framework : Laravel, Flask,
+- 🥅 Objectifs 2021: Mon objectif pour cette année serait de m'autoformer en
+  Frontend et Développement Mobile 🙃
+- ⚡ Visitez un peu plus mon profil pour voir les projets réalisés 😋
+
 </p>
 
 <p align="center">
 <h3>Spotify Playing 🎧 </h3>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 </p>
 
 <br/>
