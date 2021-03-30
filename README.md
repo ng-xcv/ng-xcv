@@ -42,8 +42,8 @@
 
 - 🔭 J'ai eu à faire pas de Langages : PHP, Python, JAVA et C#
 - 🌱 Pour ce qui en des framework : Laravel, Flask,
-- 🥅 Objectifs 2021: Mon objectif pour cette année serait de m'autoformer en
-  Frontend et Développement Mobile 🙃
+- 🥅 Objectifs 2021: Mon objectif pour cette année serait de m'autoformer <br />
+  en Frontend et Développement Mobile 🙃
 - ⚡ Visitez un peu plus mon profil pour voir les projets réalisés 😋
 
 </p>
