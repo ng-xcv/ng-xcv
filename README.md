@@ -38,8 +38,8 @@
 <br />
 
 <p align="center">
-<img style="border: 1px solid red;" align="right" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
-<p style="position: relative; top:-100px" align="left">
+<img align="right" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+<p style="" align="left">
 <h2> Un Développeur Backend --->> FullStack </h2>
 - 🔭 J'ai eu à travailler avec des Langages Backend : PHP, Python, JAVA et C#
 - 🌱 Pour ce qui en des framework : Laravel, Flask
