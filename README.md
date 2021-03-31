@@ -38,14 +38,14 @@
 <br />
 
 <p>
-<img alt="OnePiece_Luffy" align="right" width="400px" height="350px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+<img alt="OnePiece_Luffy" align="right"  src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 <p align="left" >
-<h2> Un Développeur Backend --->> FullStack </h2>
+<h2>  Backend --->> FullStack </h2>
 - 🔭 J'ai eu à travailler avec des Langages Backend : PHP, Python, JAVA et C# <br />
 - 🌱 Pour ce qui en des framework : Laravel, Flask <br />
-- 🥅 Objectifs 2021: Mon objectif pour cette année serait de m'autoformer <br />
+- 🥅 Objectifs 2021: Mon objectif pour cette année serait de m'autoformer 
   en Frontend et Développement Mobile 🙃 <br />
-- ⚡ Visitez un peu plus mon profil pour voir les projets réalisés 😋 <br />
+- ⚡ Visitez un peu plus mon profil pour voir les projets réalisés 😋 
 </p>
 </p>
 
