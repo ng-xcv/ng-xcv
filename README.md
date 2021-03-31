@@ -3,9 +3,9 @@
 </h3>
 <br />
 <p align="right">
-    <img style="margin-top:-100px; " align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="320" />
+    <img style="margin-top:-100px; " align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375px" height="320px" />
 </p>
-<p align="center" style="padding: 40px;">
+<p align="center" style="padding:40px;">
 <a href="http://ngxcv.com" title="Visiter mon site web" target="_blank"  ><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png"/></a>
 <a target="_blank" title="Voir mon CV" href="resume/cv.pdf"><img src="icons/cv.png" height="28" /></a> 
 <a target="_blank"  href="mailto:ngaryfaye95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
