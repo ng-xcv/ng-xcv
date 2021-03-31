@@ -25,7 +25,7 @@
 
 </p>
 <br />
-<p align="left" style="width:100%; height:320px; text-align:justify">
+<p align="left" style="height:320px; text-align:justify">
   Hello, mon nom est <a href="https://twitter.com/ng__xcv" >Ahmadou Ngary Faye</a>, je suis un developeur passionné. Je suis également un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. <br />
   Dans mon quotidien de développeur je suis toujours à la recherche d’un plus, d’une nouvelle découverte astuce qui me permettrait d’accroitre ma productivité.<br />
   Ma motivation première est le fait dans un cadre plus général le numérique est un monde qui me passionne depuis tout petit. <br />
@@ -38,7 +38,7 @@
 <br />
 
 <p>
-<img alt="OnePiece_Luffy" align="right" style="margin-top: -40px; border : 1px solid red"  src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+<img alt="OnePiece_Luffy" align="right" style="margin-top: -40px; border: 1px solid red"  src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" />
 <p align="left" >
 <h2>  Backend --->> FullStack </h2>
 - 📚   : J'ai eu à travailler avec des Langages Backend : PHP, Python, JAVA et C# <br />
