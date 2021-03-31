@@ -12,7 +12,7 @@
 </p>
 <br />
 <p align="left">
-<h4>Suivez moi sur les réseaux sociaux : </h4>
+<h4 style="color: red" >Suivez moi sur les réseaux sociaux : </h4>
 
 [<img align="left" alt="ngxcv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ngxcv | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -24,9 +24,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ng-xcv.ng-xcv)
 
 </p>
+
 <br />
-<p align="left" style="height:320px; ">
-  Hello, mon nom est <a href="https://twitter.com/ng__xcv" >Ahmadou Ngary Faye</a>, je suis un developeur passionné. Je suis également un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. <br />
+
+<p align="left" style="height:320px; text-align:justify">
+  Hello, mon nom est <a href="https://twitter.com/ng__xcv">Ahmadou Ngary Faye</a>, je suis un developeur passionné. Je suis également un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. <br />
   Dans mon quotidien de développeur je suis toujours à la recherche d’un plus, d’une nouvelle découverte astuce qui me permettrait d’accroitre ma productivité.<br />
   Ma motivation première est le fait dans un cadre plus général le numérique est un monde qui me passionne depuis tout petit. <br />
   L'innovation et la créativité en développement s'est avéré être une sensation palpitante pour ma part le fait de construire ou de participer à l'élaboration des applications de demain.<br />
