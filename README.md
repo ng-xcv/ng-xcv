@@ -31,12 +31,10 @@
   <a href="https://twitter.com/ng__xcv">Ahmadou Ngary Faye</a> est developeur passionné et également un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. <br />
   Ma motivation première dans un cadre plus général est le fait que le numérique est un monde qui me passionne depuis tout petit. <br />
   Dans mon quotidien de développeur, l'innovation et la créativité se sont avérées être une sensation palpitante pour ma part le fait de construire ou de participer à l'élaboration des applications de demain 😋 .<br />
-  Ce qui est particulièrement vivifiant c'est que j'aime les défis 💪🏾 le fait de venir à bout d'une situation particulière après de longues heures de recherches 😆 <br />
+  Ce qui est particulièrement vivifiant c'est que j'aime les défis 💪🏾 le fait de venir à bout d'une situation particulière après de longues heures de recherches 😆 .<br />
   Mon CV 👆🏽👆🏽👆🏽 vous en dira un plus et pour ce qui est de mes réalisations  👇🏾👇🏾👇🏾
 </p>
-
 <br />
-
 <p>
 <img  src="gif/luffy.gif" align="right" width="380px" style="margin-top:-115px" alt="OnePiece_Luffy" />
 <br />
@@ -104,6 +102,8 @@
 <br />
 
 <p align="left">
+<img align="left" alt="linux" width="35px" src="icons/linux.svg" />
+<img align="left" alt="kali" width="45px" src="icons/kali.png" />
 <img align="left" alt="Git" width="30px" src="icons/git.png" />
 
 <img align="left" alt="GitHub" width="30px"  src="icons/github.png" />
