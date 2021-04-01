@@ -70,7 +70,6 @@
 
 <h3 align="left">Langages, Base de Donnée, Outils :</h3>
 
-<p align="right">
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="phpstorm" width="25px"  src="icons/phpstorm.svg" />
@@ -95,7 +94,6 @@
 <img align="left" alt="MySQL" width="30px"   src="icons/mysql.png" />
 
 <img align="left" alt="Oracle" width="40px" src="icons/oracle.png" />
-</p>
 
 <br />
 <br />
