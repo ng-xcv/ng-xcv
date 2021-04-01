@@ -40,8 +40,8 @@
 <br />
 
 <p>
-<img alt="OnePiece_Luffy" align="right" style="margin-top: -40px; border: 1px solid red"  src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" />
-<p align="left" >
+<img alt="OnePiece_Luffy" align="right" style="border: 1px solid red; width:350px"  src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif" />
+<p align="left" style="width: 800px; border:1px solid green" >
 <h2>  Backend --->> FullStack </h2>
 - 📚   : J'ai eu à travailler avec des Langages Backend : PHP, Python, JAVA et C# <br />
 - 🔖   : Pour ce qui en des framework : Laravel, Flask <br />
@@ -50,12 +50,16 @@
 - 👀   : Visitez un peu plus mon profil pour voir les projets réalisés 😋 
 </p>
 </p>
+<br />
+<br />
 
-<p align="right" style="">
-  
-  <p align="center">
-    Made with ❤️ in Bhopal
-  </p>
+<p align="center">
+  <a href="https://github.com/ng-xcv/FlaskBlog">
+    <img align="center" alt="FlaskBlog" src="https://github-readme-stats.vercel.app/api/pin/?username=ng-xcv&repo=FlaskBlog&theme=dark&border_radius=10" />
+  </a>
+  <a href="https://github.com/ng-xcv/Marvel-Quiz">
+    <img align="center" alt="Marvel-Quiz" src="https://github-readme-stats.vercel.app/api/pin/?username=ng-xcv&repo=Marvel-Quiz&border_radius=10" />
+  </a>
 </p>
 
 <p align="center">
