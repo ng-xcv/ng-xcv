@@ -51,8 +51,8 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/ng-xcv/FlaskBlog">
-    <img align="center" alt="FlaskBlog" src="https://github-readme-stats.vercel.app/api/pin/?username=ng-xcv&repo=FlaskBlog&theme=dark&border_radius=10" />
+  <a href="https://github.com/ng-xcv/Crypto-Currency">
+    <img align="center" alt="Crypto-Currency" src="https://github-readme-stats.vercel.app/api/pin/?username=ng-xcv&repo=Crypto-Currency&theme=dark&border_radius=10" />
   </a>
   <a href="https://github.com/ng-xcv/Marvel-Quiz">
     <img align="center" alt="Marvel-Quiz" src="https://github-readme-stats.vercel.app/api/pin/?username=ng-xcv&repo=Marvel-Quiz&border_radius=10" />
