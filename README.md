@@ -40,7 +40,7 @@
 <br />
 
 <p>
-<img  src="gif/luffy.gif" align="right" width="350px" style="margin-top:-25px" alt="OnePiece_Luffy" />
+<img  src="gif/luffy.gif" align="right" height="320px" width="350px" style="margin-top:-25px" alt="OnePiece_Luffy" />
 <p align="left">
 <h2>  Backend --->> FullStack </h2>
 - 📚   : J'ai eu à travailler avec des Langages Backend : PHP, Python, JAVA et C# <br />
