@@ -70,33 +70,29 @@
 
 <br/>
 
-<p>
-<span align="left" style="font-size: 22px; font-weight:bold">Langages :</span>
-<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<h3 align="left">Languages :</h3>
 
-<img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<p align="right">
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img alt="python"  width="30px" src="icons/python.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img alt="Php" width="45px"  src="icons/php.png" />
-</p>
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<h3 align="left">Framework :</h3>
-<p align="left">
 <img align="left" alt="React"  width="30px" src="icons/react.png" />
 
+<img align="left" alt="Php" width="45px"  src="icons/php.png" />
 <img align="left" alt="laravel"  width="30px" src="icons/laravel.png" />
 <img align="left" alt="wordpress"  width="30px" src="icons/wordpress.png" />
-</p>
+<img align="left" alt="python"  width="30px" src="icons/python.png" />
+
 <img align="left" alt="flask" width="25px"  src="icons/flask.svg" />
 
 <img align="left" alt="MySQL" width="30px"   src="icons/mysql.png" />
 
 <img align="left" alt="Oracle" width="40px" src="icons/oracle.png" />
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
 
 <br />
