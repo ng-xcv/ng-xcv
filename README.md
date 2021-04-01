@@ -82,38 +82,40 @@
 
 <img align="left" alt="React"  width="30px" src="icons/react.png" />
 
-<img align="left" alt="Php" width="45px"  src="icons/php.png" />
+<img align="left" alt="Php" width="32px"  src="icons/php.png" />
 <img align="left" alt="laravel"  width="30px" src="icons/laravel.png" />
+
 <img align="left" alt="wordpress"  width="30px" src="icons/wordpress.png" />
+
 <img align="left" alt="python"  width="30px" src="icons/python.png" />
 
 <img align="left" alt="flask" width="25px"  src="icons/flask.svg" />
 
 <img align="left" alt="dotnet" width="25px"  src="icons/dotnet.png" />
 
+<img align="left" alt="Oracle" width="30px" src="icons/oracle.png" />
+
 <img align="left" alt="MySQL" width="30px"   src="icons/mysql.png" />
 
-<img align="left" alt="Oracle" width="40px" src="icons/oracle.png" />
-
 <br />
 <br />
 
-<p align="left">
-<img align="left" alt="linux" width="35px" src="icons/linux.svg" />
-<img align="left" alt="kali" width="45px" src="icons/kali.png" />
+<img align="left" alt="linux" width="30px" src="icons/linux.svg" />
+<img align="left" alt="kali" width="30px" src="icons/kali.png" />
 <img align="left" alt="Git" width="30px" src="icons/git.png" />
 
 <img align="left" alt="GitHub" width="30px"  src="icons/github.png" />
 
 <img align="left" alt="Terminal" width="30px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-</p>
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
----
-
-<br />
+<hr  />
 
 ### 📺 Mes dernières Vidéos YouTube
 
@@ -128,7 +130,7 @@
 
 ➡️ [plus de vidéos...](https://youtube.com/ng_xcv)
 
----
+<hr />
 
 ### 📕 Mes dernières Blog Posts
 
@@ -142,7 +144,7 @@
 
 ➡️ [plus de posts...](http://ngxcv.com)
 
----
+<hr />
 
 <br />
 <br />
