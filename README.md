@@ -12,7 +12,7 @@
 </p>
 <br />
 <p align="left">
-<h4 style="color: red" >Suivez moi sur les réseaux sociaux : </h4>
+<h4>Suivez moi sur les réseaux sociaux : </h4>
 
 [<img align="left" alt="ngxcv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ngxcv | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -66,14 +66,16 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://ng-xcv.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31xscy2dsnuz5z2q6ifrsj3lryny)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <br/>
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">Langages, Base de Donnée, Outils :</h3>
 
 <p align="right">
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="phpstorm" width="25px"  src="icons/phpstorm.svg" />
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -89,6 +91,8 @@
 <img align="left" alt="python"  width="30px" src="icons/python.png" />
 
 <img align="left" alt="flask" width="25px"  src="icons/flask.svg" />
+
+<img align="left" alt="dotnet" width="25px"  src="icons/dotnet.png" />
 
 <img align="left" alt="MySQL" width="30px"   src="icons/mysql.png" />
 
