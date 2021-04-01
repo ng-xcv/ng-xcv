@@ -112,9 +112,10 @@
 </p>
 <br />
 <br />
-<br />
 
 ---
+
+<br />
 
 ### 📺 Mes dernières Vidéos YouTube
 
