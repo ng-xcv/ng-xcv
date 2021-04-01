@@ -32,7 +32,7 @@
   Ma motivation première dans un cadre plus général est le fait que le numérique est un monde qui me passionne depuis tout petit. <br />
   Dans mon quotidien de développeur, l'innovation et la créativité se sont avérées être une sensation palpitante pour ma part le fait de construire ou de participer à l'élaboration des applications de demain.<br />
   Ce qui est particulièrement vivifiant c'est que j'aime les défis le fait de venir à bout d'une situation particulière après de longues heures de recherches 😆 <br />
-  Pour en savoir un plus sur mon parcours mon CV est tout en haut 👆🏽👆🏽👆🏽
+  Mon CV 👆🏽👆🏽👆🏽 vous en dira un plus et pour ce qui est de mes réalisations  👇🏾👇🏾👇🏾
 </p>
 
 <br />
