@@ -62,12 +62,9 @@
   </a>
 </p>
 
-<p align="center">
-<h3>Spotify Playing 🎧 </h3>
+### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-</p>
+[<img src="https://https://ng-xcv.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31xscy2dsnuz5z2q6ifrsj3lryny)
 
 <br/>
 
