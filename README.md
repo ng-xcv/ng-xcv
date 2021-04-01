@@ -62,6 +62,9 @@
   </a>
 </p>
 
+<br />
+<br />
+
 ### Spotify Playing 🎧
 
 [<img src="https://https://ng-xcv.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31xscy2dsnuz5z2q6ifrsj3lryny)
