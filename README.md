@@ -28,14 +28,13 @@
 <br />
 
 <p align="left" style="height:320px; text-align:justify">
-  Hello, mon nom est <a href="https://twitter.com/ng__xcv">Ahmadou Ngary Faye</a>, je suis un developeur passionné. Je suis également un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. <br />
-  Ma motivation première est le fait dans un cadre plus général le numérique est un monde qui me passionne depuis tout petit. <br />
-  L'innovation et la créativité en développement s'est avéré être une sensation palpitante pour ma part le fait de construire ou de participer à l'élaboration des applications de demain.<br />
+  <a href="https://twitter.com/ng__xcv">Ahmadou Ngary Faye</a> est developeur passionné et également un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. <br />
+  Ma motivation première dans un cadre plus général est le fait que le numérique est un monde qui me passionne depuis tout petit. <br />
+  Dans mon quotidien de développeur, l'innovation et la créativité se sont avérées être une sensation palpitante pour ma part le fait de construire ou de participer à l'élaboration des applications de demain.<br />
   Ce qui est particulièrement vivifiant c'est que j'aime les défis le fait de venir à bout d'une situation particulière après de longues heures de recherches 😆 <br />
   Pour en savoir un plus sur mon parcours mon CV est tout en haut 👆🏽👆🏽👆🏽
 </p>
 
-<br />
 <br />
 
 <p>
