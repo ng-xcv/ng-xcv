@@ -29,7 +29,6 @@
 
 <p align="left" style="height:320px; text-align:justify">
   Hello, mon nom est <a href="https://twitter.com/ng__xcv">Ahmadou Ngary Faye</a>, je suis un developeur passionné. Je suis également un freelance qui propose du contenu visant à faire découvrir et donner conseil quant à l’utilisation du web, comprendre les enjeux et risquent qu’il présente. <br />
-  Dans mon quotidien de développeur je suis toujours à la recherche d’un plus, d’une nouvelle découverte astuce qui me permettrait d’accroitre ma productivité.<br />
   Ma motivation première est le fait dans un cadre plus général le numérique est un monde qui me passionne depuis tout petit. <br />
   L'innovation et la créativité en développement s'est avéré être une sensation palpitante pour ma part le fait de construire ou de participer à l'élaboration des applications de demain.<br />
   Ce qui est particulièrement vivifiant c'est que j'aime les défis le fait de venir à bout d'une situation particulière après de longues heures de recherches 😆 <br />
@@ -71,27 +70,33 @@
 
 <br/>
 
+<p>
+<span align="left" style="font-size: 22px; font-weight:bold">Langages :</span>
+<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img alt="python"  width="30px" src="icons/python.png" />
+
+<img alt="Php" width="45px"  src="icons/php.png" />
+</p>
+
+<h3 align="left">Framework :</h3>
 <p align="left">
-<h3>Languages and Tools:</h3>
-
-<p align="left">
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
 <img align="left" alt="React"  width="30px" src="icons/react.png" />
 
-<img align="left" alt="Php" width="45px"  src="icons/php.png" />
-
+<img align="left" alt="laravel"  width="30px" src="icons/laravel.png" />
+<img align="left" alt="wordpress"  width="30px" src="icons/wordpress.png" />
+</p>
 <img align="left" alt="flask" width="25px"  src="icons/flask.svg" />
 
 <img align="left" alt="MySQL" width="30px"   src="icons/mysql.png" />
 
 <img align="left" alt="Oracle" width="40px" src="icons/oracle.png" />
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
 
 <br />
@@ -110,12 +115,34 @@
 
 ---
 
-<details>
-  <summary>GitHub Statistiques</summary>
+### 📺 Mes dernières Vidéos YouTube
 
-  <img align="center" alt="ng_xcv GitHub Statistique" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<!-- YOUTUBE:START -->
 
-</details>
+- [À Bas Pubs et Pisteurs [Android & IOS] ADGUARD La Solution](https://www.youtube.com/watch?v=6AvGF_BRZ8k)
+- [Présentation et Installation Rapide de KALI LINUX 2020.2 [Moins de 5Mn] sous Oracle VirtualBox](https://www.youtube.com/watch?v=YBq-dKjU9p4)
+- [10 Things I Wish I Knew Before I Started Programming](https://www.youtube.com/watch?v=x4gu6JGwKAI)
+- [KATOOLIN : "Impossible de trouver le paquet" [Updated] & Installer les outils de KALI LINUX 2019](https://www.youtube.com/watch?v=G7XCc02uu5w)
+- [Kali Linux 2018.4 : " Impossible de trouver le paquet " [Resolu]](https://www.youtube.com/watch?v=RnYowO2xZpY)
+<!-- YOUTUBE:END -->
+
+➡️ [plus de vidéos...](https://youtube.com/ng_xcv)
+
+---
+
+### 📕 Mes dernières Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [MultiBoot sur USB ou Disque Dur Windows Mac Linux](http://ngxcv.com/2020/11/multiboot-sur-usb-ou-disque-dur-windows-mac-linux/)
+- [Pirater et Contrôler un Téléphone Portable via [ MÉTASPLOIT] sous KALI LINUX 2019](http://ngxcv.com/2020/07/pirater-et-contro%cc%82ler-un-telephone-portable-via-metasploit-sous-kali-linux-2019/)
+- [Pirater et Espionner un Téléphone via L3Mon [ Over The WAN – NGROK ] sous KALI LINUX 2020](http://ngxcv.com/2020/07/pirater-et-espionner-un-telephone-via-l3mon-over-the-wan-ngrok-sous-kali-linux-2020/)
+- [Présentation et Installation Rapide de KALI LINUX 2020.2 [Moins de 5Mn] sous Oracle VirtualBox](http://ngxcv.com/2020/07/presentation-et-installation-rapide-de-kali-linux-2020-2-moins-de-5mn-sous-oracle-virtualbox/)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [plus de posts...](http://ngxcv.com)
+
+---
 
 <br />
 <br />
