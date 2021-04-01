@@ -100,7 +100,7 @@
 <br />
 <br />
 
-<img align="left" alt="linux" width="30px" src="icons/linux.svg" />
+<img align="left" alt="linux" width="32px" src="icons/linux.svg" />
 <img align="left" alt="kali" width="30px" src="icons/kali.png" />
 <img align="left" alt="Git" width="30px" src="icons/git.png" />
 
