@@ -34,7 +34,6 @@
   Ce qui est particulièrement vivifiant c'est que j'aime les défis 💪🏾 le fait de venir à bout d'une situation particulière après de longues heures de recherches 😆 .<br />
   Mon CV 👆🏽👆🏽👆🏽 vous en dira un plus et pour ce qui est de mes réalisations  👇🏾👇🏾👇🏾
 </p>
-<br />
 <p>
 <img  src="gif/luffy.gif" align="right" width="380px" style="margin-top:-115px" alt="OnePiece_Luffy" />
 <br />
