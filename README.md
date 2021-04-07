@@ -52,7 +52,7 @@
 
 <p align="center">
  <a href="https://github.com/ng-xcv/Backend-Rest_Api">
-    <img align="center" alt="Backend-Rest_Api" src="https://github-readme-stats.vercel.app/api/pin/?username=ng-xcv&repo=Backend-Rest_Api&border_radius=10" />
+    <img align="center" alt="Backend-Rest-Api" src="https://github-readme-stats.vercel.app/api/pin/?username=ng-xcv&repo=Backend-Rest_Api&border_radius=10" />
   </a>
   <a href="https://github.com/ng-xcv/Crypto-Currency">
     <img align="center" alt="Crypto-Currency" src="https://github-readme-stats.vercel.app/api/pin/?username=ng-xcv&repo=Crypto-Currency&theme=dark&border_radius=10" />
